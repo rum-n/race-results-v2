@@ -66,3 +66,16 @@ copyright {
   .home a:hover {
       text-decoration: none;
   }
+
+  .credits p{
+    font-family:'Helvetica', sans-serif;
+    color: grey;
+    list-style: none;
+    line-height: 50%;
+    font-size: 12pt;
+  }
+  
+  .credits a{
+    color: grey;
+    font-weight: 400;
+  }
