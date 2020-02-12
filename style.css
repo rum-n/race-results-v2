@@ -1,5 +1,5 @@
 h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 900;
     font-size: 4em;
     text-align: center;
@@ -7,6 +7,7 @@ h1 {
 
 .header {
     margin-top: 50px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -19,7 +20,7 @@ h1 {
 }
 
 hr {
-    width: 50%;
+    width: 30%;
     border: 1px solid;
 }
 
@@ -46,7 +47,7 @@ copyright {
     opacity: 0.5;
     font-size: 0.8em;
   }
-  
+
 .footer hr {
     border: 0.5px solid;
     width: 100%;
@@ -67,6 +68,10 @@ copyright {
       text-decoration: none;
   }
 
+  .credits {
+      margin-top: 50px;
+  }
+
   .credits p{
     font-family:'Helvetica', sans-serif;
     color: grey;
@@ -78,4 +83,5 @@ copyright {
   .credits a{
     color: grey;
     font-weight: 400;
+
   }
